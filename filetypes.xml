@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="names" type="PLAIN_TEXT" />
+      <mapping ext="weights" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
