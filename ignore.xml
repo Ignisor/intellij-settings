@@ -37,7 +37,8 @@
 out
 gen</template>
       <template name="PyCharm"># IntelliJ project files
-.idea</template>
+.idea
+#</template>
     </userTemplates>
   </component>
 </application>
