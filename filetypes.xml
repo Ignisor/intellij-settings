@@ -12,12 +12,12 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="YouTube" type="PLAIN_TEXT" />
       <mapping ext="weights" type="PLAIN_TEXT" />
-      <mapping ext="names" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="names" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
