@@ -1,0 +1,6 @@
+<application>
+  <component name="CsvEditorSettings">
+    <option name="EDITOR_PRIO" value="TABLE_FIRST" />
+    <option name="TABLE_AUTO_COLUMN_WIDTH_ON_OPEN" value="true" />
+  </component>
+</application>
