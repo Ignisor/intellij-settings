@@ -12,6 +12,7 @@
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern=".env_vars" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
+      <mapping pattern="shit" type="PLAIN_TEXT" />
       <mapping ext="pbf" type="PLAIN_TEXT" />
       <mapping ext="weights" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
